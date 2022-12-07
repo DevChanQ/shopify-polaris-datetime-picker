@@ -31,3 +31,11 @@ const SomeComponent = () => {
   );
 };
 ```
+
+## Props
+| Prop Name    | Type     | Description                                                     | Required | Default    |
+|--------------|----------|-----------------------------------------------------------------|----------|------------|
+| initialValue | Number   | UNIX timestamp in milliseconds                                  | false    | Date.now() |
+| dateLabel    | String   | Label of date input                                             | false    | "Date"     |
+| timeLabel    | String   | Label of time input                                             | false    | "Time"     |
+| onChange     | Function | Called for datetime changed Returns Date object of new datetime | false    | () => {}   |
