@@ -1,18 +1,19 @@
 # Shopify Polaris DateTime Picker
 
 ##  Installation
-```
-npm i shopify-polaris-datetime-picker
-```
+```sh
+# NPM
 
-(Yarn)
-```
+npm i shopify-polaris-datetime-picker
+
+# Yarn
+
 yarn add shopify-polaris-datetime-picker
 ```
 
 ## Usage
 1. Import the component
-```
+```javascript
 // es6
 import DateTimePicker from "shopify-polaris-datetime-picker";
 
@@ -21,7 +22,7 @@ const DateTimePicker = require("shopify-polaris-datetime-picker");
 ```
 
 2. Use it
-```
+```javascript
 const SomeComponent = () => {
   // ...
   return (
