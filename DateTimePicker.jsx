@@ -1,4 +1,4 @@
-import { useState, useCallback, useEffect, useRef } from 'react';
+import React, { useState, useCallback, useEffect, useRef } from 'react';
 import { DatePicker, TextField, Icon, Popover, Stack, ResourceList } from '@shopify/polaris';
 import { CalendarMajor, ClockMinor } from '@shopify/polaris-icons';
 

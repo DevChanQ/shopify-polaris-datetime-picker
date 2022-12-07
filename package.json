@@ -1,6 +1,11 @@
 {
   "name": "shopify-polaris-datetime-picker",
-  "version": "1.0.0",
+  "version": "0.0.3",
+  "homepage": "https://github.com/DevChanQ/shopify-polaris-datetime-picker",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevChanQ/shopify-polaris-datetime-picker"
+  },
   "description": "Datetime Picker React Component made with Shopify Polaris framework",
   "main": "index.js",
   "author": "Jeffrey Chan",
