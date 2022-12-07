@@ -26,8 +26,7 @@ const SomeComponent = () => {
   // ...
   return (
     // ...
-    <DateTimePicker 
-      />
+    <DateTimePicker {...props} />
   );
 };
 ```
