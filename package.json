@@ -14,5 +14,12 @@
   "peerDependencies": {
     "react": "^17.0.2",
     "@shopify/polaris": "^9.11.0"
-  }
+  },
+  "keywords": [
+    "shopify ui component",
+    "polaris datetime picker",
+    "shopify",
+    "polaris",
+    "datetime picker"
+  ]
 }
