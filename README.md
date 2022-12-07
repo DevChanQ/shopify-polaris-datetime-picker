@@ -1,5 +1,7 @@
 # Shopify Polaris DateTime Picker
 
+![](picker-example.gif)
+
 ##  Installation
 ```sh
 # NPM
