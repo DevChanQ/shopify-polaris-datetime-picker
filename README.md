@@ -3,11 +3,9 @@
 ##  Installation
 ```sh
 # NPM
-
 npm i shopify-polaris-datetime-picker
 
 # Yarn
-
 yarn add shopify-polaris-datetime-picker
 ```
 
